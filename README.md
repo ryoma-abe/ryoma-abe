@@ -1,8 +1,5 @@
 # 👨‍💻 Ryo | Shopify Expert & Web Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)](https://github.com/your-github-username)
-[![Follow](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
-
 > **北海道のフリーランスエンジニア** | 自衛隊員からエンジニアへ転身し、EC 開発の世界で活動中 🚀
 
 <p align="center">
