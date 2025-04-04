@@ -1,6 +1,6 @@
 # 👨‍💻 Ryo | Shopify Expert & Web Developer
 
-> **北海道のフリーランスエンジニア** | 自衛隊員からエンジニアへ転身し、EC 開発の世界で活動中 🚀
+> **北海道のフリーランスエンジニア** | 自衛隊員からエンジニアへ転身し、開発の世界で活動中 🚀
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&random=false&width=435&lines=Shopify+Expert+%26+Web+Developer;Expert+in+EC+Development;From+JSDF+to+Engineering" alt="Typing SVG" />
@@ -29,6 +29,7 @@ const ryo = {
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Liquid-67b8de?style=for-the-badge&logo=shopify&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
