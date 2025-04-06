@@ -35,29 +35,15 @@ const ryo = {
 <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 
-## 📈 実績 & 経験
-
-- **Shopify 構築**:
-  - 新規構築: 30+ ストア
-  - カスタマイズ: 50+ ストア
-- **教育活動**: プログラミングスクール講師
-
-## 📫 Contact & Price
-
-```javascript
-const workInfo = {
-    shopify: {
-        構築＋デザイン: "25万円～",
-        カスタマイズ: "要相談"
-    },
-    wordpress: {
-        コーディング: "15万円（2週間）",
-        デザイン＋コーディング: "30万円（3週間）"
-    },
-    hourlyRate: "2,500円～3,000円"
-};
-```
+## 💻 My Tech Stack
+<!-- GitHubプロフィールに言語使用率チャートを表示 -->
+<img src="https://gh-stats-api.vercel.app/api/languages?username=ryoma-abe" alt="Most Used Languages" />
 
 > 💡 **新規のお仕事のご相談はいつでもお待ちしています！**
 
 ---
+
+<p align="center">
+<!-- GitHub統計情報（オプション） -->
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
