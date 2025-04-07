@@ -35,15 +35,11 @@ const ryo = {
 <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 
-## 💻 My Tech Stack
-<!-- GitHubプロフィールに言語使用率チャートを表示 -->
-<img src="https://gh-stats-api.vercel.app/api/languages?username=ryoma-abe" alt="Most Used Languages" />
+## 💻 Languages
+
+<!-- カスタム言語使用率チャート -->
+<img src="https://ghlangmeter.vercel.app/api/meter?username=yourusername" alt="My Language Meter" width="400" />
 
 > 💡 **新規のお仕事のご相談はいつでもお待ちしています！**
 
 ---
-
-<p align="center">
-<!-- GitHub統計情報（オプション） -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
