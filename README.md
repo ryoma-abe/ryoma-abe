@@ -34,12 +34,3 @@ const ryo = {
 <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
-
-## 💻 Languages
-
-<!-- カスタム言語使用率チャート -->
-<img src="https://ghlangmeter.vercel.app/api/meter?username=ryoma-abe" alt="My Language Meter" width="400" />
-
-> 💡 **新規のお仕事のご相談はいつでもお待ちしています！**
-
----
