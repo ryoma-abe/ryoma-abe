@@ -38,7 +38,7 @@ const ryo = {
 ## 💻 Languages
 
 <!-- カスタム言語使用率チャート -->
-<img src="https://ghlangmeter.vercel.app/api/meter?username=yourusername" alt="My Language Meter" width="400" />
+<img src="https://ghlangmeter.vercel.app/api/meter?username=ryoma-abe" alt="My Language Meter" width="400" />
 
 > 💡 **新規のお仕事のご相談はいつでもお待ちしています！**
 
