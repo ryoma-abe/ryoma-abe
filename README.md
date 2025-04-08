@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻 Ryo | Shopify Expert & Web Developer
 > **北海道のフリーランスエンジニア** | 自衛隊員からエンジニアへ転身し、開発の世界で活動中 🚀
 <p align="center">
@@ -36,4 +35,3 @@ const ryo = {
 <p align="left">
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
-
