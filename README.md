@@ -6,7 +6,8 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=ryoma-abe&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
-</p
+</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ryoma-abe&theme=dracula&column=7&margin-w=15&margin-h=15" />
 
 ## 🌟 About Me
 
