@@ -25,7 +25,31 @@ const ryo = {
 
 ---
 
-💼 Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/Liquid-67b8de?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" /> </p>
-📊 GitHub Stats
-<p align="left"> <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoma-abe/ryoma-abe/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryoma-abe/ryoma-abe/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/ryoma-abe/ryoma-abe/output/github-snake.svg" /> </picture> ```
+## 💼 Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Liquid-67b8de?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoma-abe/ryoma-abe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryoma-abe/ryoma-abe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ryoma-abe/ryoma-abe/output/github-snake.svg" />
+</picture>
+
