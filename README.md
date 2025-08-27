@@ -6,11 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&random=false&width=435&lines=Shopify+Expert+%26+Web+Developer;Expert+in+EC+Development;From+JSDF+to+Engineering" alt="Typing SVG" />
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-</p>
+<img src="https://streak-stats.demolab.com?user=ryoma-abe&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
 
 ## 🌟 About Me
 
