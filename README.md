@@ -4,13 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&random=false&width=435&lines=Shopify+Expert+%26+Web+Developer;Expert+in+EC+Development;From+JSDF+to+Engineering" alt="Typing SVG" />
 </p>
 
-<p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=ryoma-abe&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
-</p>
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=7&margin-w=15&margin-h=15" />
-
-
-
 
 ## 🌟 About Me
 
@@ -48,8 +42,5 @@ const ryo = {
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ユーザー名/ユーザー名/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ユーザー名/ユーザー名/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ユーザー名/ユーザー名/blob/output/github-snake.svg" />
-</picture>
+![github contribution grid snake animation](https://github.com/ユーザー名/ユーザー名/blob/output/github-contribution-grid-snake.svg)
+
