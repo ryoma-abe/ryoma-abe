@@ -1,7 +1,5 @@
 # 👨‍💻 Ryo | Shopify Expert & Web Developer
 
-> **北海道のフリーランスエンジニア** | 自衛隊員からエンジニアへ転身し、開発の世界で活動中 🚀
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&random=false&width=435&lines=Shopify+Expert+%26+Web+Developer;Expert+in+EC+Development;From+JSDF+to+Engineering" alt="Typing SVG" />
 </p>
