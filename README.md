@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&random=false&width=435&lines=Shopify+Expert+%26+Web+Developer;Expert+in+EC+Development;From+JSDF+to+Engineering" alt="Typing SVG" />
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Shopify+Expert;Web+Developer;From+JSDF+to+Engineer" />
+
 ## 🌟 About Me
 
 ```typescript
