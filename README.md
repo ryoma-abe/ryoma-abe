@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&random=false&width=435&lines=Shopify+Expert+%26+Web+Developer;Expert+in+EC+Development;From+JSDF+to+Engineering" alt="Typing SVG" />
 </p>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=DenverCoder1&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ryoma-abe&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
 
 
 ## 🌟 About Me
