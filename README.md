@@ -42,5 +42,10 @@ const ryo = {
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-![github contribution grid snake animation](https://github.com/ユーザー名/ユーザー名/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryoma-abe/ryoma-abe/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ryoma-abe/ryoma-abe/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ryoma-abe/ryoma-abe/blob/output/github-snake.svg" />
+</picture>
+
 
