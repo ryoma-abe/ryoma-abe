@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ryoma.
 
-- 🛒 フリーランスの Shopify デベロッパー。テーマ構築・カスタムアプリ開発をやっています。
+- 🛒 フリーランスの Shopify デベロッパー。テーマ構築・アプリ開発をやっています。
 - 🏔️ 北海道の十勝エリアに住んでます。
 - 💼 フリーランスとしての実績 200件超。
 - 🚀 自作アプリ [RYX Wishlist](https://apps.shopify.com/ryx-wishlist) を Shopify App Store で公開中。
