@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ryoma-abe&color=blue&style=flat)
+
 ## 👋 Hi, I'm Ryoma.
 
 - 🛒 フリーランスの Shopify デベロッパー。テーマ構築・アプリ開発をやっています。
