@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-
 </p>
+
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryoma-abe&color=blue&style=flat)
