@@ -20,7 +20,4 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 </p>
 
-### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&theme=dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ryoma-abe&color=blue&style=flat)
