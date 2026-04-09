@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ryoma-abe&color=blue&style=flat)
-
 ## 👋 Hi, I'm Ryoma.
 
 - 🛒 フリーランスの Shopify デベロッパー。テーマ構築・アプリ開発をやっています。
@@ -22,3 +20,5 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ryoma-abe&color=blue&style=flat)
