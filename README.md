@@ -4,7 +4,6 @@
 - 🏔️ 北海道の十勝エリアに住んでます。
 - 💼 フリーランスとしての実績 200件超。
 - 🚀 自作アプリ [RYX Wishlist](https://apps.shopify.com/ryx-wishlist) を Shopify App Store で公開中。
-- 📫 連絡先 -> [ryx.jp](https://ryx.jp)
 - 🐦 X -> [@ryoo_black](https://x.com/ryoo_black)
 
 ### Skills
