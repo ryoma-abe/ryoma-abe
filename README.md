@@ -3,7 +3,7 @@
 - 🛒 フリーランスの Shopify デベロッパー。テーマ構築・アプリ開発をやっています。
 - 🏔️ 北海道の十勝エリアに住んでます。
 - 💼 フリーランスとしての実績 200件超。
-- 🚀 Shopifyアプリなどを作ってます -> [RYX](https://ryx.jp/shopify-apps) 
+- 🚀 Shopifyアプリ作ってます -> [RYX](https://ryx.jp/shopify-apps) 
 - 🐦 X -> [@ryoo_black](https://x.com/ryoo_black)
 
 ### Skills
